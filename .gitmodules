@@ -1,3 +1,6 @@
 [submodule "submod"]
 	path = submod
 	url = https://github.com/iniyannatarajan/submod
+[submodule "eht2018"]
+	path = eht2018
+	url = https://github.com/iniyannatarajan/submod
